@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yankee244
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Fintech websites 
+- 👋 Hi, I’m @YankeeDev
+- 👀 Frontend Developer 
+- 🌱 I clone ✨
+- I'm open for collaborations
 - 📫 Reach me on ihekwuabachikeaustin@gmail.com
 
 <!---
